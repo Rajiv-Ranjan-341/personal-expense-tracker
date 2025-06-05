@@ -50,14 +50,11 @@ A Java-based desktop application designed to help users manage and track their d
 
 ## 📸 Screenshots
 
-![Dashboard](image/dashboard.png)
-*Dashboard displaying monthly expense summary.*
-
-![Add Expense](image/add_expense.png)
-*Form to add a new expense.*
-
-![Expense Chart](image/expense_chart.png)
-*Visual representation of expenses by category.*
+(![alt text](image.png))
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
 
 ## 📂 Project Structure
 
